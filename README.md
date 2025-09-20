@@ -21,3 +21,23 @@ It ranks results by **views** and **likes**, filters out very short videos (like
    ```bash
    git clone https://github.com/AlonB22/youtube-finder-bot.git
    cd youtube-finder-bot
+
+## ▶️ Usage
+
+Run a search for "dynamic programming knapsack":
+
+```bash
+python app.py "dynamic programming knapsack" --region US --lang en --top 5
+
+## 📦 Requirements
+
+- Python 3.10+
+- google-api-python-client
+- python-dotenv
+- tabulate
+- isodate
+
+## 👨‍💻 Author
+
+Created by **Alon Berla** — Computer Science student passionate about software & AI.  
+Connect with me on [LinkedIn](https://www.linkedin.com/in/alon-berla/) ✨
