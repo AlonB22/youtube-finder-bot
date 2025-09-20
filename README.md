@@ -29,6 +29,13 @@ Run a search for "dynamic programming knapsack":
 ```bash
 python app.py "dynamic programming knapsack" --region US --lang en --top 5
 
+| Title                         | Channel       |   Views |   Likes | Duration | Link                                   |
+|-------------------------------|---------------|---------|---------|----------|----------------------------------------|
+| Knapsack Problem Explained    | CS Simplified | 1234567 |   54321 | 12m3s    | https://www.youtube.com/watch?v=XXXXX  |
+
+
+---
+
 ## 📦 Requirements
 
 - Python 3.10+
