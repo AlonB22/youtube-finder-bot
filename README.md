@@ -38,6 +38,7 @@ python app.py "dynamic programming knapsack" --region US --lang en --top 5
 
 ## 📦 Requirements
 
+```bash
 - Python 3.10+
 - google-api-python-client
 - python-dotenv
@@ -46,5 +47,6 @@ python app.py "dynamic programming knapsack" --region US --lang en --top 5
 
 ## 👨‍💻 Author
 
+```bash
 Created by **Alon Berla** — Computer Science student passionate about software & AI.  
 Connect with me on [LinkedIn](https://www.linkedin.com/in/alon-berla/) ✨
